@@ -1,3 +1,1 @@
-Assignment 2
-Christopher Mollise
-ChrisJMollise@gmail.com
+Project utilizing OGRE to create a game engine. 
